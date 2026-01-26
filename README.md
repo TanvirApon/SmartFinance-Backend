@@ -7,7 +7,7 @@ Built with **Spring Boot**, **MySQL**, and **Spring Security (JWT Authentication
 
 ## 🚀 Live Deployment
 
-- Backend is live on Render: [SmartFinance Backend](https://your-render-backend-url.com)  
+- Backend is live on Render: [SmartFinance Backend](https://smartfinance-backend-1.onrender.com/)  
 *(Replace with your actual Render URL)*
 
 ---
