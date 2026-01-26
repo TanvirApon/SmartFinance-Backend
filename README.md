@@ -45,16 +45,16 @@ EXPOSE 9090
 ENTRYPOINT ["java", "-jar", "moneymanager-v1.0.jar"]
 ```
 
-# Build and run locally
+## ⚙️ Build and run locally
 docker build -t smartfinance-backend .
 docker run -p 9090:9090 smartfinance-backend
 
-# Clone the repo
+## ⚙️ Clone the repo
 git clone https://github.com/TanvirApon/SmartFinance-Backend.git
 cd SmartFinance-Backend
 
-# Build project
+## ⚙️ Build project
 mvn clean package
 
-# Run backend
+## ⚙️ Run backend
 java -jar target/moneymanger-0.0.1-SNAPSHOT.jar
